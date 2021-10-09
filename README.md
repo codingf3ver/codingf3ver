@@ -3,11 +3,9 @@
 <img align='center' src= 'https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/hello.gif' />
 
 <br/>
-<br/>
-<br/>
-<br/>
 
-## I'm  data passionate and python geek  !!!
+
+## I'm  Data passionate and python geek  !!!
 
 - 🔭 Welcome to the world of data geek.....
 - 🌱 I’m currently exploring everything 🤣
@@ -17,16 +15,14 @@
 
 
 <br />
-### Connect with me:
+## Connect with me:
 
 <img align='center' alt='hello' src='https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/Handshake.gif' />
 <br/>
-<br/>
-<br/>
-<br/>
 
-<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" />
-<a href='https://www.linkedin.com/in/md-tausif786/'> Linkedin </a> 
+
+<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/md-tausif786/'> Linkedin </a> 
+
 <br />
 
 ### Languages and Tools:
