@@ -13,8 +13,8 @@
 - ⚡ I love to write and read blogs
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-
 <br />
+
 ## Connect with me:
 
 <img align='center' alt='hello' src='https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/Handshake.gif' />
