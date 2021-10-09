@@ -10,7 +10,7 @@
 - 🔭 Welcome to the world of data geek.....
 - 🌱 I’m currently exploring everything 🤣
 - 👯 I’m looking for passionate data geek
-- ⚡ I love to write and read blogs
+- ⚡ I love to read and write blogs
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
