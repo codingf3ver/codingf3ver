@@ -21,7 +21,7 @@
 <br/>
 
 
-<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/md-tausif786/'> Linkedin </a> 
+<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/md-tausif786/' target="_blank"> Linkedin  </a> 
 
 <br />
 
