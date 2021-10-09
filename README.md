@@ -2,7 +2,7 @@
 
 
 
-## I'm a python developer and data passionate !!!
+## I'm  data passionate and python geek  !!!
 
 - 🔭 Welcome to the world of data geek.....
 - 🌱 I’m currently exploring everything 🤣
