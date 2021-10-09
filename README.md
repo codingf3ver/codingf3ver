@@ -1,6 +1,8 @@
 ### Hi there, I'm Tausif - aka [codingfever] 👋
 
-<img align='left' alt='hello' src='https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/Handshake.gif' />
+<img align='left' src= 'https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/hello.gif' />
+
+<br/>
 
 ## I'm  data passionate and python geek  !!!
 
@@ -11,10 +13,12 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
+<br />
 ### Connect with me:
 
+<img align='left' alt='hello' src='https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/Handshake.gif' />
 <img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" />
-
+<a href='https://www.linkedin.com/in/md-tausif786/'> Linkedin </a> 
 <br />
 
 ### Languages and Tools:
