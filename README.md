@@ -1,6 +1,6 @@
 ### Hi there, I'm Tausif - aka [codingfever] 👋
 
-<img align='center' src= 'https://github.com/codingf3ver/images/blob/main/hello.gif' style = "height:100px " />
+<img align='center' src= 'https://github.com/codingf3ver/images/blob/main/hello.gif' style = "height:300px " />
 <br/>
 
 
