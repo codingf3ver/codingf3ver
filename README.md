@@ -1,6 +1,6 @@
 ### Hi there, I'm Tausif - aka [codingfever] 👋
 
-
+<img align='left' alt='hello' src='https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/Handshake.gif' />
 
 ## I'm  data passionate and python geek  !!!
 
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="md-tausif786 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" />
 
 <br />
 
