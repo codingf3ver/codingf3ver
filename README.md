@@ -43,6 +43,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=codingf3ver&show_icons=true&theme=nightowl" alt="biro's stats"/>
+</p>
+
 
 
 
