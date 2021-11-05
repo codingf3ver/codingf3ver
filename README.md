@@ -1,4 +1,5 @@
-### Hi there, I'm Tausif - aka [codingfever] 👋
+### 
+<h1 Hi  align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> there, I'm Tausif - aka [codingf3ver] </h1>
 
 <img align='center' src= 'https://github.com/codingf3ver/images/blob/main/animation.gif' style = "height:200px , width:400px " />
 <br/>
@@ -20,7 +21,7 @@
 <br/>
 
 
-<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/md-tausif786/' target="_blank"> Linkedin  </a> 
+<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/md-tausif786/' target= "_blank"> Linkedin  </a> 
 
 <br />
 
