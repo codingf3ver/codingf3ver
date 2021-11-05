@@ -1,5 +1,5 @@
 ### 
-<h1 Hi  align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> there, I'm Tausif - aka [codingf3ver] </h1>
+<h1  align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> there, I'm Tausif - aka [codingf3ver] </h1>
 
 <img align='center' src= 'https://github.com/codingf3ver/images/blob/main/animation.gif' style = "height:200px , width:400px " />
 <br/>
