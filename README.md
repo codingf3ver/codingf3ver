@@ -1,11 +1,11 @@
 ### Hi there, I'm Tausif - aka [codingfever] 👋
 
-<img align='center' src= 'https://github.com/codingf3ver/images/blob/main/hello.gif' style = "height:200px , width:400px " />
+<img align='center' src= 'https://github.com/codingf3ver/images/blob/main/animation.gif' style = "height:200px , width:400px " />
 <br/>
 
 
 ## I'm  Data passionate and python geek  !!!
-<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+
 - 🔭 Welcome to the world of data geek.....
 - 🌱 I’m currently exploring everything 🤣
 - 👯 I’m looking for passionate data geek
