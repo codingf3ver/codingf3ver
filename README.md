@@ -4,6 +4,8 @@
 <img align='center' src= 'https://github.com/codingf3ver/images/blob/main/animation.gif' style = "height:200px , width:400px " />
 <br/>
 
+![](https://komarev.com/ghpvc/?username=codingf3ver&label=Profile+Views)
+
 
 ## I'm  Data passionate and python geek  !!!
 
