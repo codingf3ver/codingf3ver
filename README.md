@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=codingf3ver&label=Profile+Views)
 
 
-## I'm  Data passionate and python geek  !!!
+## I'm  Tech geek and chai lover..  !!!
 
 - 🔭 Welcome to the world of data geek.....
 - 🌱 I’m currently exploring everything 🤣
