@@ -59,7 +59,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=codingf3ver&show_icons=true&theme=synthwave" alt="stats"/>
- <img align="right" alt="Tausif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingf3ver&hide_border=true" />
+ <img align="left" alt="Tausif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingf3ver&hide_border=true" />
 </p>
 
 
