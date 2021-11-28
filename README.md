@@ -36,6 +36,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="c++" width="26px"
 src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
+<img align="left" alt="c++" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="SQL" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="MySQL" width="26px"
@@ -58,6 +60,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=codingf3ver&show_icons=true&theme=synthwave" alt="stats"/>
 </p>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codingf3ver&repo=Github-Automation)](https://github.com/codingf3ver/Github-Automation)
 
 
 
