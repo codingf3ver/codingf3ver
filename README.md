@@ -62,7 +62,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  <img align="left" alt="Tausif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingf3ver&hide_border=true" />
 </p>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingf3ver&theme=vue)
 
 
 
