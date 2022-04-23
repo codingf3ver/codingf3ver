@@ -9,32 +9,31 @@
 
 
 ## Software Developer | Data Enthusiast
----------------------------------------
 
 I have been coding for the past two years and my primary field of exploration is data
 
-- 🔭 Welcome to the world of data nerd
+* 🔭 Welcome to the world of data nerd
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [official.tauisf.786@gmail.com](mailto:official.tauisf.786@gmail.com)
 * 🚀  I'm currently working on [GIS Application](http://official.tausif@gitlab.com)
 * 🧠  I'm digging the depth of data
 * 🤝  I'm open to collaborating on Text based projects
 * ⚡  I'm secretly a funny guy but didn't tell anyone
-- 👯 I’m looking for passionate data geek
-- ⚡ I love to read and write blogs
-- 🥅 2022 Goals: Contribute more to Open Source projects
+* 👯 I’m looking for passionate data geek
+* ⚡ I love to read and write blogs
+* 🥅 2022 Goals: Contribute more to Open Source projects
 
 <br />
 
 ## Connect with me:
 
-<img align='left' alt='hello' src='https://github.com/codingf3ver/images/blob/main/Handshake.gif' />
-<br/>
-
+<img align='center' alt='hello' src='https://github.com/codingf3ver/images/blob/main/Handshake.gif' />
+<br>
+<br>
 <p align="left"> <a href="https://www.github.com/codingf3ver" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/md-tausif786/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/codingf3ver" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15297204/md-tausif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-## Skills:
 
+## Skills:
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
