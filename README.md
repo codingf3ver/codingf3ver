@@ -14,7 +14,7 @@ I have been coding for the past two years and my primary field of exploration is
 
 * 🔭 Welcome to the world of data nerd
 * 🌍  I'm based in Kolkata
-* ✉️  You can contact me at [official.tauisf.786@gmail.com](mailto:official.tauisf.786@gmail.com)
+* ✉️  You can contact me at [official.tausif.786@gmail.com](mailto:official.tausif.786@gmail.com)
 * 🚀  I'm currently working on [GIS Application](http://official.tausif@gitlab.com)
 * 🧠  I'm digging the depth of data
 * 🤝  I'm open to collaborating on Text based projects
