@@ -8,7 +8,7 @@
 
 
 
-## Software Developer | Data Enthusiast
+## Software Developer | Data Geek
 
 I have been coding for the past two years and my primary field of exploration is data
 
@@ -62,7 +62,7 @@ I have been coding for the past two years and my primary field of exploration is
  <img align="left" alt="Tausif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingf3ver&hide_border=true" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingf3ver&theme=vue)
+
 
 
 
