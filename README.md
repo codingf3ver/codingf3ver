@@ -8,7 +8,7 @@
 
 
 
-## Software Developer | Data Geek
+## Software Developer Engineer | Data Geek
 
 I have been coding for the past two years and my primary field of exploration is data
 
