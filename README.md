@@ -13,7 +13,7 @@
 I have been coding for the past two years and my primary field of exploration is data
 
 * 🔭 Welcome to the world of data nerd
-* 🌍  I'm based in Kolkata
+* 🌍  I'm based in Kolkata, India
 * 📖 My personal Blog(under development using Django)[Quantum Coder Blog](http://65.0.237.9:8000)
 * ✉️  You can contact me at [official.tausif.786@gmail.com](mailto:official.tausif.786@gmail.com)
 * 🚀  I'm currently working on GIS Application
